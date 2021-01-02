@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/Bresenham Circle Drawing/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Bresenham Circle Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bresenham Line Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cohen-Sutherland Line Clipping/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/Bresenham Circle Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/Bresenham Line Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/Cohen-Sutherland Line Clipping/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/DDA Line Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/Mid-Point Circle Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/Mid-Point Ellipse Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Computer-Graphics-Algorithms/Mid-Point Line Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DDA Line Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mid-Point Circle Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mid-Point Ellipse Drawing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Mid-Point Line Drawing/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

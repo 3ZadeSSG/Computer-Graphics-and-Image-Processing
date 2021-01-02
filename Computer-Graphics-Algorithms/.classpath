@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Bresenham Circle Drawing/src"/>
+	<classpathentry kind="src" path="Bresenham Line Drawing/src"/>
+	<classpathentry kind="src" path="Cohen-Sutherland Line Clipping/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/Bresenham Circle Drawing/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/Bresenham Line Drawing/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/Cohen-Sutherland Line Clipping/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/DDA Line Drawing/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/Mid-Point Circle Drawing/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/Mid-Point Ellipse Drawing/src"/>
+	<classpathentry kind="src" path="Computer-Graphics-Algorithms/Mid-Point Line Drawing/src"/>
+	<classpathentry kind="src" path="DDA Line Drawing/src"/>
+	<classpathentry kind="src" path="Mid-Point Circle Drawing/src"/>
+	<classpathentry kind="src" path="Mid-Point Ellipse Drawing/src"/>
+	<classpathentry kind="src" path="Mid-Point Line Drawing/src"/>
+	<classpathentry kind="output" path="Bresenham Circle Drawing/bin"/>
+</classpath>

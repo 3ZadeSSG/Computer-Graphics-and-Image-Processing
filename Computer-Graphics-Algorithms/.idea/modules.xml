@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2D Transformations/2D Transformations.iml" filepath="$PROJECT_DIR$/2D Transformations/2D Transformations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Boundary Fill Algorithm/Boundary Fill Algorithm.iml" filepath="$PROJECT_DIR$/Boundary Fill Algorithm/Boundary Fill Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bresenham Circle Drawing/Bresenham Circle Drawing.iml" filepath="$PROJECT_DIR$/Bresenham Circle Drawing/Bresenham Circle Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bresenham Line Drawing/Bresenham Line Drawing.iml" filepath="$PROJECT_DIR$/Bresenham Line Drawing/Bresenham Line Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChoenLineClip/ChoenLineClip.iml" filepath="$PROJECT_DIR$/ChoenLineClip/ChoenLineClip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cohen-Sutherland Line Clipping/Cohen-Sutherland Line Clipping.iml" filepath="$PROJECT_DIR$/Cohen-Sutherland Line Clipping/Cohen-Sutherland Line Clipping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Computer Graphics.iml" filepath="$PROJECT_DIR$/Computer Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DDA Line Drawing/DDA Line Drawing.iml" filepath="$PROJECT_DIR$/DDA Line Drawing/DDA Line Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flood Fill Algorithm/Flood Fill Algorithm.iml" filepath="$PROJECT_DIR$/Flood Fill Algorithm/Flood Fill Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Liang-Barsky Clipping/Liang-Barsky Clipping.iml" filepath="$PROJECT_DIR$/Liang-Barsky Clipping/Liang-Barsky Clipping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid-Point Circle Drawing/Mid-Point Circle Drawing.iml" filepath="$PROJECT_DIR$/Mid-Point Circle Drawing/Mid-Point Circle Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid-Point Ellipse Drawing/Mid-Point Ellipse Drawing.iml" filepath="$PROJECT_DIR$/Mid-Point Ellipse Drawing/Mid-Point Ellipse Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mid-Point Line Drawing/Mid-Point Line Drawing.iml" filepath="$PROJECT_DIR$/Mid-Point Line Drawing/Mid-Point Line Drawing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scan Line Polygon Fill/Scan Line Polygon Fill.iml" filepath="$PROJECT_DIR$/Scan Line Polygon Fill/Scan Line Polygon Fill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sutherland Hodgeman Clipping/Sutherland-Hodgeman-Polygon-CLipping.iml" filepath="$PROJECT_DIR$/Sutherland Hodgeman Clipping/Sutherland-Hodgeman-Polygon-CLipping.iml" />
+    </modules>
+  </component>
+</project>
